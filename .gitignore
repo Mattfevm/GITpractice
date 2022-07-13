@@ -1,0 +1,3 @@
+# cuales seran los archivos y rutas que se quieren ignorar
+.env
+node_modules/
